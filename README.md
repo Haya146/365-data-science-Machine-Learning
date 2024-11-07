@@ -1,1 +1,1 @@
-# 365-data-science-practical
+# 365-data-science-Machine-Learning
